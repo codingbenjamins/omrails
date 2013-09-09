@@ -5,7 +5,6 @@ gem 'rails', '4.0.0'
 gem 'jquery-rails'
 
 group :production do
-
 gem 'pg'
 end
 
@@ -35,4 +34,3 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#
